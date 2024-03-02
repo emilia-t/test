@@ -13,3 +13,5 @@ echo $min;
 #rest
 
 #test in new device
+
+#test in another device
